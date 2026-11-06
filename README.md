@@ -1,7 +1,7 @@
 # Assignment 5: Shader Graph Lightsaber
 
 # AI Disclosure
-I used claude Opus to help with the menial wirting and implementation of some of the scripts, and also used it to help put together this readme and format it in a reasonable manner. 
+I used claude Opus to help with the wirting and implementation of some of the scripts, and also used it to help put together this readme and format it in a reasonable manner. 
 
 ## Controls
 - **Space**: ignite / retract the blade
